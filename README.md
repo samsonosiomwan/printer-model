@@ -1,3 +1,4 @@
+
 # Modeling Objects with OOP
 
 ## The Printing Machine
@@ -87,4 +88,7 @@ Report after printing the project
 -open terminal or command line
 -run the command python main.py
 
-## Screen shots of results
+## Screen shots of the app and implementation
+
+![Screen Shot 2021-09-09 at 7 42 20 AM](https://user-images.githubusercontent.com/81101034/132636818-5b03ea3f-fde2-44ae-aab7-1789dbd8ff9f.png)
+
